@@ -1,2 +1,3 @@
-pip install -r requirements.txt
-flash run
+pip install –r requirements.txt
+flask run
+pylint app.py
